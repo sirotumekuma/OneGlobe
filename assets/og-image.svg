@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#EAF4FF"/>
+  <circle cx="930" cy="315" r="250" fill="#2878D0"/>
+  <circle cx="930" cy="315" r="170" fill="none" stroke="#fff" stroke-width="4" opacity=".7"/>
+  <ellipse cx="930" cy="315" rx="78" ry="170" fill="none" stroke="#fff" stroke-width="4" opacity=".7"/>
+  <path d="M760 315h340M785 250h290M785 380h290" fill="none" stroke="#fff" stroke-width="4" opacity=".7"/>
+  <g fill="#183B63"><text x="90" y="270" font-family="Segoe UI,Arial" font-size="88" font-weight="800">One World.</text><text x="90" y="370" font-family="Segoe UI,Arial" font-size="88" font-weight="800" fill="#2878D0">One Community.</text></g>
+  <text x="94" y="430" font-family="Segoe UI,Arial" font-size="30" fill="#66809A">Connecting People, Connecting Worlds.</text>
+</svg>
